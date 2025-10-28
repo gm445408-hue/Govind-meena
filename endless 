@@ -1,0 +1,35 @@
++# Angular specific
+
+2 +/dist/
+
+3 +/out-tsc/
+
+4G
+
++/tmp/
+
+5 +/coverage/
+
+6 +/e2e/test-output/
+
+7 +/.angular/
+
+8 +.angular/
+
+9+
+
+10 +# Node modules and dependency files
+
+11 +/node_modules/
+
+12 +/package-lock.json
+
+13 +/yarn.lock
+
+14 +
+
+15 +# Environment files
+
+16 +/.env
+
+17 +
